@@ -39,7 +39,6 @@ require (
 	github.com/onsi/gomega v1.16.0
 	github.com/ory/dockertest/v3 v3.9.1
 	github.com/parnurzeal/gorequest v0.2.16
-	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/skratchdot/open-golang v0.0.0-20190402232053-79abb63cd66e
 	github.com/spf13/afero v1.6.0
@@ -51,6 +50,6 @@ require (
 	github.com/vektah/gqlparser/v2 v2.4.3
 	golang.org/x/term v0.0.0-20210916214954-140adaaadfaf
 	gopkg.in/src-d/go-git.v4 v4.13.1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.0
 	moul.io/http2curl v1.0.0 // indirect
 )
