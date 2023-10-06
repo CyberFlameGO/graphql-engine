@@ -353,7 +353,7 @@
     "octokit": "^2.0.14",
     "os-browserify": "^0.3.0",
     "path-browserify": "^1.0.1",
-    "postcss": "8.4.19",
+    "postcss": "8.4.31",
     "prettier": "^2.6.2",
     "react-a11y": "0.2.8",
     "react-hot-loader": "4.13.0",
