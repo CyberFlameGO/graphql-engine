@@ -29,8 +29,8 @@
   "author": "wawhal",
   "license": "ISC",
   "dependencies": {
-    "@graphql-codegen/core": "^1.9.0",
-    "@graphql-codegen/typescript": "^1.9.0",
+    "@graphql-codegen/core": "^1.17.10",
+    "@graphql-codegen/typescript": "^1.23.0",
     "graphql": "^14.5.8",
     "inflection": "^1.12.0",
     "node-fetch": "^2.6.0",
